@@ -5,8 +5,11 @@ The code is created in many code files. And like many of the data analysis platf
 The file are in order:
 
 1- TMDB-OMDB.ipynb
+
 2- TMDB.ipynb
+
 3- Python-Netflix-Project-DataNormalization 2.ipynb
+
 4- Python-Netflix-Project-DataNormalization 3.ipynb
 
 Thanks.
